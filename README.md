@@ -3,7 +3,7 @@
 - 💻 **Trabalho atual:** Estagiária em AWS Cloud Data & AI na Compass Uol
 - 📚 **Estudando:** Mobile e Linux 
 - 🦉 **Instituição de ensino:** Unisuam
-- 
+  
 ##
 
 <div>
